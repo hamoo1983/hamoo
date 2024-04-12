@@ -1,0 +1,264 @@
+#inf h1{text-align: center;
+           text-shadow: 10px 10px 10px;
+           color: aliceblue;
+           width: 100%;
+           margin-top: 30px;
+           background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+           background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+           background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+           background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+           }
+#leftsec{margin-left: 3%;
+         margin-right: 1.5%;
+         width: 30%;
+         margin-top: 30px;
+         padding-left: 2%;
+         padding-right: 2%;
+         float: left;
+         background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+         background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+         background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+         background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+         }
+
+
+#leftsec h2{
+            text-shadow: 10px 10px 10px;
+            font-weight: 700px;
+            font-style: normal;
+            font-size: 2rem;
+            text-align: center;
+            color:rgb(96, 65, 65);}
+
+#leftsec p{
+           font-weight: 400;
+           font-size: 140%;
+           color:rgb(45, 40, 40);}  
+
+#rightsec{margin-left: 1.5%;
+          margin-right: 3%;
+          padding-left: 2%;
+          padding-right: 2%;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          width:53%;
+          float:right ;
+          margin-top: 30px;
+          text-align: center;
+          background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+         background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+         background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+         background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+          }
+
+#rightsec iframe{box-shadow: 5px 5px 5px;
+                 width: 400px;
+                 height: 300px;
+                 border-radius: 20px;}
+
+footer{width: 100%;
+       text-align: center;
+       background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       position: fixed;
+       bottom: 0;}
+body{background-repeat:none;
+     background-size: cover;
+      background-attachment: fixed;}
+#ser h1{margin-top: 470px;
+       text-align: center;
+       color: aliceblue;
+       text-shadow: 10px 10px 10px;
+       background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+        }
+#ser{height: 40px;}
+
+#se1{float:left;
+     margin-left:3%;
+     margin-right: 3%;
+     padding-right: 2%;
+     padding-top: 10px;
+     padding-left: 2%;
+     width: 40%;
+     background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+     background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+     background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+     background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+        }
+ #se2{float:right;
+      margin-right:3%;
+      margin-left:3%;
+      padding-top: 10px;
+              padding-right: 2%;
+              padding-left: 2%;
+              width: 40%;
+              background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+              background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+              background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+              background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+                 }
+#se1left{width: 40%;
+         margin-right:3%;
+         margin-left: 3%;
+         padding-left: 2%;
+         padding-top: 5px;
+         padding-right: 2%;
+         background-color: white;
+         float:left;
+       text-align: center;}
+
+#se1right{width: 40%;
+       margin-right:3%;
+       margin-left: 3%;
+       padding-top: 5px;
+       padding-left: 2%;
+       padding-right: 2%;
+       background-color: white;
+       float:right;
+       text-align: center;}
+
+#se2left{width: 40%;
+              margin-right:3%;
+              margin-left: 3%;
+              padding-left: 2%;
+              padding-top: 5px;
+              padding-right: 2%;
+              background-color: white;
+              float:left;
+              text-align: center;}
+     
+#se2right{width: 40%;
+            margin-right:3%;
+            margin-left: 3%;
+            padding-top: 5px;
+            padding-left: 2%;
+            padding-right: 2%;
+            background-color:white;
+            float:right;
+            text-align: center;}
+
+#inq h1{margin-top: 300px;
+              text-align: center;
+              color: aliceblue;
+              text-shadow: 10px 10px 10px;
+              background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+              background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+              background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+              background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+}
+
+.im1{width: 150px;height: 100px;}
+.im2{width: 150px;height: 100px;}
+.im3{width: 150px;height: 100px;}
+.im4{width: 150px;height: 100px;}
+
+#se1 h5{text-shadow: 5px 5px 5px;}
+#se2 h5{text-shadow: 5px 5px 5px;}
+
+#fo1{float:left;
+       margin-left:3%;
+       margin-right: 3%;
+       padding-right: 2%;
+       padding-top: 10px;
+       padding-left: 2%;
+       padding-bottom:20px;
+       width: 40%;
+       background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+       background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+          }
+   #fo2{float:right;
+        margin-right:3%;
+        margin-left:3%;
+        padding-top: 10px;
+        padding-right: 2%;
+        padding-left: 2%;
+        width: 40%;
+        background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+        background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+        background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+        background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+                   }
+  #twt{margin-right:3%;
+       margin-left:1%;
+       padding-top: 10px;
+       padding-right: 2%;
+       padding-left: 2%;
+       width:42%;
+       float: left;}
+ #face{margin-right:1%;
+       margin-left:3%;
+       padding-top: 10px;
+       padding-right: 2%;
+       padding-left: 2%;
+       width:42%;
+       float: right;}
+
+#fo1 label , input , textarea{width:100%;}
+#fo1 input{background-color: rgb(249, 249, 240);}
+
+
+#map{
+     width:40%;
+     margin-left: 3%;
+     padding-left: 2%;
+     padding-right: 2%;
+     margin-right: 3%;
+     float:left}
+
+#mah h1{margin-top: 450px;
+text-align: center;
+color: aliceblue;
+text-shadow: 10px 10px 10px;
+background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+}
+
+#call{
+      margin-left: 3%;
+      padding-left: 2%;
+      margin-right: 3%;
+      padding-right: 2%;
+      width: 40%;
+      float: right;}
+
+#call h5{color: white;
+         font-size: 2rem;
+       font-weight: 400;
+       text-align: center;
+text-shadow: 5px 5px 5px;}
+
+#par{color:rgb(49, 44, 44);
+     width:60%;
+     margin-left: 1.5%;
+     padding-left: 2%;
+     padding-right: 2%;
+     margin-right: 3%;
+     text-shadow: 5px 5px 5px;
+     font-weight: 400;
+     font-size: 140%;
+     margin-top: 100px;
+     padding-bottom: 20px;
+     padding-top: 10px;
+     background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+        background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+        background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+        background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(251,247,247,0.52) 0.10%);
+                   }
+#par h2{text-align: center;}
+
+
+
+
+
+
+
+
